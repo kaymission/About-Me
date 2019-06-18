@@ -1,0 +1,42 @@
+h1 {
+    border-color: blue;
+    border-left-color: rgb(0, 204, 255);
+    border-right-color: rgb(0, 204, 255);
+    border-width: 5px;
+    border-style: solid;
+   
+}
+
+h4 {
+    border:3px solid rgb(80, 126, 196);
+    
+}
+
+a {
+    margin: 600px;
+}
+
+#red {
+    color: red;
+    margin-left: 100px;
+}
+#orange {
+    color: orange;
+    margin-left: 200px;
+}
+#yellow {
+    color: yellow;
+    margin-left: 300px;
+}
+#green {
+    color: green;
+    margin-left: 400px;
+}
+#blue {
+    color: blue;
+    margin-left: 500px;
+}
+#purple {
+    color: purple;
+    margin-left: 600px;
+}
