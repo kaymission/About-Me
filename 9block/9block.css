@@ -1,0 +1,52 @@
+
+div {
+    
+    height: 250px;
+    width: 250px;
+}
+
+#one {
+    background-color: red;
+}
+#two {
+    background-color: purple;
+}
+#three {
+    background-color: blue;
+}
+
+div.relative {
+    position: relative;
+    left: 250px;
+    bottom: 750px;
+    background-color: orange;
+  }
+
+#middle {
+    bottom: 750px;
+    background-color: yellow;
+    left: 250px;
+}
+
+#six {
+    background-color: green;
+    left: 250px;
+}
+
+#seven {
+    background-color: blue;
+    left: 500px;
+    bottom: 1500px;
+}
+
+#eight {
+    background-color: purple;
+    left: 500px;
+    bottom: 1500px;
+}
+
+#nine {
+    background-color: red;
+    left: 500px;
+    bottom: 1500px;
+}
